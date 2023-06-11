@@ -2,7 +2,7 @@
 A Bachelor Degree Project, Informatic Engineering
 
 This project focused on mobile development (Android) device
-Technology and Stack for this project :
+# Technology and Stack for this project :
 - Wireframing Low Fidelity using Figma
 - Framework Flutter with Dart Programming Languanges
 - GetX State Managenment with MVC Pattern
